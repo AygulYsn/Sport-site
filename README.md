@@ -1,4 +1,4 @@
-# Respponsive Sport-site
+# Responsive Sport-site
 Html and Css practice
 
 ## Technologies used
