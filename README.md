@@ -7,4 +7,6 @@ Html and Css practice
 
 ## Live Site
 
-[Show Site](https://aygulysn.github.io/Sport-site/)
+[Show Site](https://yasin-aygl.github.io/Sport-site/)
+
+
